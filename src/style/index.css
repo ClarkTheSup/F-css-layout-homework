@@ -54,3 +54,19 @@ ul {
   font-style: italic;
   margin: 15px 0px;
 }
+
+.aside-left-archives {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 200px;
+  height: 350px;
+  padding: 20px;
+}
+
+.aside-left-archives-header {
+  font-weight: bold;
+  font-size: 20px;
+  font-style: italic;
+  margin: 15px 0px;
+}
